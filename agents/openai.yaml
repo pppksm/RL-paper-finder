@@ -1,0 +1,4 @@
+interface:
+  display_name: "强化学习讨论班选论文"
+  short_description: "按指定期刊和会议筛选强化学习原创论文，为控制工程讨论班推荐汇报选题"
+  default_prompt: "使用 $rl-paper-finder，帮我找近三年适合讨论班汇报的强化学习论文，推荐五篇并重点推荐一篇。"
